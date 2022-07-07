@@ -36,7 +36,7 @@ const TopImage = styled.Image`
 `
 
 // image
-import background from "./../assets/bgs/background_v1.png"
+import background from "./../assets/bgs/background_v1.png" // refer to photo.d.ts for importing images
 
 const Welcome: FunctionComponent = () => {
   return (

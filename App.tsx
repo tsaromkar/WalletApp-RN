@@ -1,10 +1,9 @@
 import React from 'react';
-import Welcome from './screens/Welcome';
+import RootStack from './src/navigators/RootStack';
 
 const App = () => {
-
   return (
-    <Welcome />
+    <RootStack />
   );
 };
 
